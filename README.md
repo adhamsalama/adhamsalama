@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamsalama" alt="adhamsalama" /></a> </p>
 
--   🔭 I’m currently working on **graduation project**
+-   🔭 I’m currently working on **my graduation project**
 
 -   🌱 I’m currently learning **FastAPI & MongoDB**
 
