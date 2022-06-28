@@ -3,9 +3,9 @@
 
 # 💫About Me :
 
--   🔭 I’m currently working on **my graduation project**
+-   🔭 I’m currently in an internship at [Wuilt](https://wuilt.com)
 
--   🌱 I’m currently learning **FastAPI & MongoDB**
+-   🌱 I’m currently learning **GraphQL**
 
 -   📫 How to reach me **adhamsalamamustafa@gmail.com**
 
@@ -51,6 +51,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊GitHub Stats :
