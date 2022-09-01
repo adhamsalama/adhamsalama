@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently in an internship at [Wuilt](https://wuilt.com)
 
--   🌱 I’m currently learning **gRPC**
+-   🌱 I’m currently learning **gRPC & Redis**
 
 -   📫 How to reach me **adhamsalamamustafa@gmail.com**
 
