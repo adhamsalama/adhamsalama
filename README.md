@@ -3,9 +3,8 @@
 
 # 💫About Me :
 
--   🔭 I’m currently in an internship at [Wuilt](https://wuilt.com)
+-   🔭 I’m currently working with Node.js, TypeScript, GraphQL, gRPC and MongoDB.
 
--   🌱 I’m currently learning **gRPC & Redis**
 
 -   📫 How to reach me **adhamsalamamustafa@gmail.com**
 
