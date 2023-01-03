@@ -3,7 +3,7 @@
 
 # 💫About Me :
 
--   🔭 I’m currently working with Node.js, TypeScript, GraphQL, gRPC and MongoDB.
+-   🔭 I’m currently working with Node.js, TypeScript, GraphQL, gRPC, and MongoDB. And learning Rust!
 
 
 -   📫 How to reach me **adhamsalamamustafa@gmail.com**
