@@ -7,7 +7,7 @@ You can find me on GitLab instead, https://gitlab.com/adhamsalama
 -   🔭 I’m currently working with Node.js, TypeScript, GraphQL, gRPC, and MongoDB. And learning Rust!
 
 
--   📫 How to reach me **adhamsalamamustafa@gmail.com**
+-   📫 How to reach me **adham@salama.dev**
 
 -   📄 Know about my experience [My CV](https://flowcv.com/resume/ran8tv8n81)
 
