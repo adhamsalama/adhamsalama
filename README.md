@@ -1,4 +1,6 @@
 You can find me on GitLab instead, https://gitlab.com/adhamsalama
+
+and my personal blog at https://adham.salama.dev
 <h1 align="center">Hi 👋, I'm Adham</h1>
 <h3 align="center">A backend software engineer</h3>
 
