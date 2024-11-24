@@ -6,9 +6,6 @@ and my personal blog at https://adham.salama.dev
 
 # 💫About Me :
 
--   🔭 I’m currently working with Node.js, TypeScript, GraphQL, gRPC, and MongoDB. And learning Rust!
-
-
 -   📫 How to reach me **adham@salama.dev**
 
 -   📄 Know about my experience [My CV](https://flowcv.com/resume/ran8tv8n81)
@@ -73,8 +70,8 @@ and my personal blog at https://adham.salama.dev
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adhamsalama&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adhamsalama&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adhamsalama&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adhamsalama&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adhamsalama&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&&hide=html,ejs,css,dockerfile)
 
 <!-- ## 🏆GitHub Trophies
